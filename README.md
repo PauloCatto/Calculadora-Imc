@@ -1,6 +1,6 @@
 # Calculadora-Imc
 
-A calculadora de imc foi feita em Html5, Css3 e Java Script para calcular o indice de massa corporal do usuario. 
+A calculadora de imc foi feita em Html5, Css3 e JavaScript para calcular o indice de massa corporal do usuario. 
 
 ![Captura de Tela (57)](https://user-images.githubusercontent.com/108766424/233855277-799c8ad0-c89b-46c7-a6e5-0477b2234417.png)
 
